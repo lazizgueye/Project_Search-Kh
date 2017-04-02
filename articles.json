@@ -1,0 +1,608 @@
+[
+  {
+    "REF.": "CUI04887",
+    "Nom article": "Samsung RL 39 WBSM",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 712
+  },
+  {
+    "REF.": "CUI96831",
+    "Nom article": "AEG S 75388 KG6 INOX",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 1012
+  },
+  {
+    "REF.": "CUI29394",
+    "Nom article": "Sharp R26-ST Inox",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 159.9
+  },
+  {
+    "REF.": "CUI33255",
+    "Nom article": "Samsung MW 81 WX",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 99
+  },
+  {
+    "REF.": "NET30496",
+    "Nom article": "Dyson DC08 Allergy Parquet",
+    "Prix €, TTC": "Nettoyage",
+    "Panier": 350
+  },
+  {
+    "REF.": "NET48660",
+    "Nom article": "Bosch WAE 28160",
+    "Prix €, TTC": "Nettoyage",
+    "Panier": 549
+  },
+  {
+    "REF.": "NET38372",
+    "Nom article": "Miele T 9446 C",
+    "Prix €, TTC": "Nettoyage",
+    "Panier": 899
+  },
+  {
+    "REF.": "SAL77540",
+    "Nom article": "Braun 8995",
+    "Prix €, TTC": "Salle de Bain",
+    "Panier": 199.05
+  },
+  {
+    "REF.": "SAL26444",
+    "Nom article": "Philips HQ 7120/17",
+    "Prix €, TTC": "Salle de Bain",
+    "Panier": 80.4
+  },
+  {
+    "REF.": "SAL49646",
+    "Nom article": "Philips HQ 8100/16",
+    "Prix €, TTC": "Salle de Bain",
+    "Panier": 119
+  },
+  {
+    "REF.": "SAL86273",
+    "Nom article": "Remington F510 Titanium",
+    "Prix €, TTC": "Salle de Bain",
+    "Panier": 89.9
+  },
+  {
+    "REF.": "CUI60055",
+    "Nom article": "Krups Nespresso Cube Titane",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 199
+  },
+  {
+    "REF.": "CUI61132",
+    "Nom article": "Saeco Talea Giro",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 449.5
+  },
+  {
+    "REF.": "CUI15395",
+    "Nom article": "Braun Tassimo TA 1200 argent",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 119
+  },
+  {
+    "REF.": "CUI34333",
+    "Nom article": "Philips HD 7810/61 Senseo",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 69.9
+  },
+  {
+    "REF.": "CUI41229",
+    "Nom article": "Krups FEM 2.41 noir chrome",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 55
+  },
+  {
+    "REF.": "CUI46279",
+    "Nom article": "Philips HD2618/00",
+    "Prix €, TTC": "Cuisine",
+    "Panier": 100
+  },
+  {
+    "REF.": "TEL93615",
+    "Nom article": "Panasonic TH-50PX60E. 127 cm HD Ready",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 3490
+  },
+  {
+    "REF.": "TEL03133",
+    "Nom article": "LG 42PC3RA. 106 cm",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 1149
+  },
+  {
+    "REF.": "TEL00785",
+    "Nom article": "Samsung PS-42Q7HD. 106 cm HD Ready",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 1490
+  },
+  {
+    "REF.": "TEL57631",
+    "Nom article": "Sony KDL-32U2000E. 81 cm HD Ready",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 889
+  },
+  {
+    "REF.": "TEL78260",
+    "Nom article": "Philips 37 PF 9731 D. 94 cm HD Ready",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 1985
+  },
+  {
+    "REF.": "TEL36384",
+    "Nom article": "Samsung LE-37S71B. 94 cm HD Ready",
+    "Prix €, TTC": "Téléviseur",
+    "Panier": 853
+  },
+  {
+    "REF.": "DVD98879",
+    "Nom article": "Philips DVP 5140",
+    "Prix €, TTC": "DVD",
+    "Panier": 79.99
+  },
+  {
+    "REF.": "DVD11433",
+    "Nom article": "Samsung DVD-HD860",
+    "Prix €, TTC": "DVD",
+    "Panier": 99
+  },
+  {
+    "REF.": "DVD62347",
+    "Nom article": "Toshiba HE-E1 HD-DVD",
+    "Prix €, TTC": "DVD",
+    "Panier": 590
+  },
+  {
+    "REF.": "DVD29028",
+    "Nom article": "Samsung BD-P1000 Blu-Ray",
+    "Prix €, TTC": "DVD",
+    "Panier": 999
+  },
+  {
+    "REF.": "DVD82564",
+    "Nom article": "Panasonic DMP-DD10 EG-S Blu-Ray",
+    "Prix €, TTC": "DVD",
+    "Panier": 1690
+  },
+  {
+    "REF.": "DVD84552",
+    "Nom article": "Philips DVDR 3400",
+    "Prix €, TTC": "DVD",
+    "Panier": 149
+  },
+  {
+    "REF.": "DVD07563",
+    "Nom article": "Sony RDR-HX725S 160Go",
+    "Prix €, TTC": "DVD",
+    "Panier": 349
+  },
+  {
+    "REF.": "DVD22241",
+    "Nom article": "Panasonic DMR-EX85 250 Go",
+    "Prix €, TTC": "DVD",
+    "Panier": 449
+  },
+  {
+    "REF.": "DVD32430",
+    "Nom article": "LG RH 199HS 250 Go",
+    "Prix €, TTC": "DVD",
+    "Panier": 449
+  },
+  {
+    "REF.": "DVD69910",
+    "Nom article": "Thomson DTH619",
+    "Prix €, TTC": "DVD",
+    "Panier": 199
+  },
+  {
+    "REF.": "DVD07258",
+    "Nom article": "Philips PET 825",
+    "Prix €, TTC": "DVD",
+    "Panier": 259
+  },
+  {
+    "REF.": "PHO52282",
+    "Nom article": "Canon PowerShot A 530",
+    "Prix €, TTC": "Photo",
+    "Panier": 129.25
+  },
+  {
+    "REF.": "PHO66425",
+    "Nom article": "Nikon Coolpix L3",
+    "Prix €, TTC": "Photo",
+    "Panier": 145
+  },
+  {
+    "REF.": "PHO16012",
+    "Nom article": "Fujifilm FinePix Z3",
+    "Prix €, TTC": "Photo",
+    "Panier": 235
+  },
+  {
+    "REF.": "PHO77306",
+    "Nom article": "Samsung Digimax S700",
+    "Prix €, TTC": "Photo",
+    "Panier": 149
+  },
+  {
+    "REF.": "PHO20620",
+    "Nom article": "Pentax Optio S7",
+    "Prix €, TTC": "Photo",
+    "Panier": 179
+  },
+  {
+    "REF.": "PHO24192",
+    "Nom article": "Canon IXUS 850 IS",
+    "Prix €, TTC": "Photo",
+    "Panier": 379
+  },
+  {
+    "REF.": "PHO49374",
+    "Nom article": "Nikon D40 + AF-S DX 18-55 mm",
+    "Prix €, TTC": "Photo",
+    "Panier": 599
+  },
+  {
+    "REF.": "PHO60934",
+    "Nom article": "Pentax K100D avec objectif standart 18-55",
+    "Prix €, TTC": "Photo",
+    "Panier": 499
+  },
+  {
+    "REF.": "PHO14883",
+    "Nom article": "Canon EOS 400D inkl. EF-S18-55",
+    "Prix €, TTC": "Photo",
+    "Panier": 729
+  },
+  {
+    "REF.": "PHO19523",
+    "Nom article": "Nikon D200 mit AF-S DX 18-70 mm",
+    "Prix €, TTC": "Photo",
+    "Panier": 1499.1
+  },
+  {
+    "REF.": "PHO21631",
+    "Nom article": "Olympus E-400 + 14-45 mm objectif standard",
+    "Prix €, TTC": "Photo",
+    "Panier": 899
+  },
+  {
+    "REF.": "PHO47347",
+    "Nom article": "SanDisk Micro Secure Digital (micro SD). 1 Go",
+    "Prix €, TTC": "Photo",
+    "Panier": 25
+  },
+  {
+    "REF.": "PHO54291",
+    "Nom article": "Hama Secure Digital (SD) 1 Go",
+    "Prix €, TTC": "Photo",
+    "Panier": 29.9
+  },
+  {
+    "REF.": "PHO68315",
+    "Nom article": "Sony Memory Stick 1 Go",
+    "Prix €, TTC": "Photo",
+    "Panier": 43
+  },
+  {
+    "REF.": "PHO10037",
+    "Nom article": "Fujifilm 200 3x36",
+    "Prix €, TTC": "Photo",
+    "Panier": 12.7
+  },
+  {
+    "REF.": "GPS23572",
+    "Nom article": "Tom Tom ONE Europe",
+    "Prix €, TTC": "GPS",
+    "Panier": 349
+  },
+  {
+    "REF.": "GPS36551",
+    "Nom article": "Tom Tom GO 710",
+    "Prix €, TTC": "GPS",
+    "Panier": 399
+  },
+  {
+    "REF.": "GPS57984",
+    "Nom article": "Garmin StreetPilot C550 Europe",
+    "Prix €, TTC": "GPS",
+    "Panier": 399
+  },
+  {
+    "REF.": "GPS51870",
+    "Nom article": "Garmin NüVi 350",
+    "Prix €, TTC": "GPS",
+    "Panier": 399
+  },
+  {
+    "REF.": "GPS03871",
+    "Nom article": "Becker Traffic Assist High Speed",
+    "Prix €, TTC": "GPS",
+    "Panier": 249
+  },
+  {
+    "REF.": "TEL49203",
+    "Nom article": "Motorola RAZR V3i",
+    "Prix €, TTC": "Téléphone",
+    "Panier": 219
+  },
+  {
+    "REF.": "TEL26532",
+    "Nom article": "Sony Ericsson W810i",
+    "Prix €, TTC": "Téléphone",
+    "Panier": 299
+  },
+  {
+    "REF.": "TEL46908",
+    "Nom article": "LG KG800 chocolate",
+    "Prix €, TTC": "Téléphone",
+    "Panier": 249
+  },
+  {
+    "REF.": "TEL46909",
+    "Nom article": "LG KG800 black",
+    "Prix €, TTC": "Téléphone",
+    "Panier": 259
+  },
+  {
+    "REF.": "TEL36093",
+    "Nom article": "Nokia 6111",
+    "Prix €, TTC": "Téléphone",
+    "Panier": 199.04
+  },
+  {
+    "REF.": "ORD91864",
+    "Nom article": "Apple iMac Intel Core 2 Duo 2.16 GHz 20p TFT",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 1439
+  },
+  {
+    "REF.": "ORD20198",
+    "Nom article": "Apple mac mini core duo 1.66 MHz. 512Mo RAM. 60 Go disque dur",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 619
+  },
+  {
+    "REF.": "ORD33742",
+    "Nom article": "Apple MacBook 2 GHz SuperDrive 13.3p TFT (1Go RAM. 80Go disque dur)",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 1299
+  },
+  {
+    "REF.": "ORD27467",
+    "Nom article": "Sony SDM-HS75DB 17p TFT Monitor",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 245.5
+  },
+  {
+    "REF.": "ORD36110",
+    "Nom article": "Samsung Sync Master 720N",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 179
+  },
+  {
+    "REF.": "ORD93387",
+    "Nom article": "BenQ FP71G+",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 191
+  },
+  {
+    "REF.": "ORD40956",
+    "Nom article": "Samsung SyncMaster 931 BF",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 299
+  },
+  {
+    "REF.": "ORD86270",
+    "Nom article": "Acer AL1951 AS",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 259
+  },
+  {
+    "REF.": "ORD71892",
+    "Nom article": "BenQ Fp91GX",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 231
+  },
+  {
+    "REF.": "ORD77201",
+    "Nom article": "Apple MacBook Pro 2.33 GHz SuperDrive 15 (120Go DD. 2Go RAM)",
+    "Prix €, TTC": "Ordinateur",
+    "Panier": 2499
+  },
+  {
+    "REF.": "PER04365",
+    "Nom article": "Brother HL-5250DN Laser",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 329
+  },
+  {
+    "REF.": "PER52886",
+    "Nom article": "Canon PIXMA iP6700D",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 185.5
+  },
+  {
+    "REF.": "PER12658",
+    "Nom article": "Epson Stylus Photo R360",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 159
+  },
+  {
+    "REF.": "PER40405",
+    "Nom article": "Canon CLI-8Bk",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 13.9
+  },
+  {
+    "REF.": "PER51002",
+    "Nom article": "Epson T0801",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 9.9
+  },
+  {
+    "REF.": "PER98386",
+    "Nom article": "HP N°339",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 29.5
+  },
+  {
+    "REF.": "PER69173",
+    "Nom article": "Epson Perfection V100 Scanner A4 3200x9600 dpi",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 99
+  },
+  {
+    "REF.": "PER32336",
+    "Nom article": "Canon CanoScan LiDE 70",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 79.5
+  },
+  {
+    "REF.": "PER05807",
+    "Nom article": "HP Scanjet 4850",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 139.5
+  },
+  {
+    "REF.": "PER55283",
+    "Nom article": "Logitech G3 Laser Mouse",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 59.99
+  },
+  {
+    "REF.": "PER96730",
+    "Nom article": "Microsoft Habu Laser Mouse",
+    "Prix €, TTC": "Peripherique",
+    "Panier": 69
+  },
+  {
+    "REF.": "SON18965",
+    "Nom article": "JBL Creature II",
+    "Prix €, TTC": "Son",
+    "Panier": 99
+  },
+  {
+    "REF.": "SON60615",
+    "Nom article": "Logitech Z-5400",
+    "Prix €, TTC": "Son",
+    "Panier": 181.15
+  },
+  {
+    "REF.": "SON75995",
+    "Nom article": "Creative SBS-580",
+    "Prix €, TTC": "Son",
+    "Panier": 59.99
+  },
+  {
+    "REF.": "SON16743",
+    "Nom article": "Creative MuVo V 100 1 Go blanc",
+    "Prix €, TTC": "Son",
+    "Panier": 58.9
+  },
+  {
+    "REF.": "SON81983",
+    "Nom article": "Apple iPod shuffle 1Go",
+    "Prix €, TTC": "Son",
+    "Panier": 89
+  },
+  {
+    "REF.": "SON70036",
+    "Nom article": "Sony NW-E 003 BC Walkman 1 Go noir",
+    "Prix €, TTC": "Son",
+    "Panier": 89.9
+  },
+  {
+    "REF.": "SON23804",
+    "Nom article": "Apple iPod nano 8 Go noir",
+    "Prix €, TTC": "Son",
+    "Panier": 246
+  },
+  {
+    "REF.": "SON44755",
+    "Nom article": "Sony NW-A 1000 V 6 Go",
+    "Prix €, TTC": "Son",
+    "Panier": 125
+  },
+  {
+    "REF.": "SON35873",
+    "Nom article": "Apple iPod 30 Go noir",
+    "Prix €, TTC": "Son",
+    "Panier": 289
+  },
+  {
+    "REF.": "SON39628",
+    "Nom article": "Creative Zen Vision M 30 Go noir",
+    "Prix €, TTC": "Son",
+    "Panier": 199
+  },
+  {
+    "REF.": "SON62528",
+    "Nom article": "Samsung YP K5 JQ 2 Go",
+    "Prix €, TTC": "Son",
+    "Panier": 199
+  },
+  {
+    "REF.": "DIS47310",
+    "Nom article": "Sony Micro Vault Midi 1Go",
+    "Prix €, TTC": "Disque",
+    "Panier": 29.99
+  },
+  {
+    "REF.": "DIS68382",
+    "Nom article": "Verbatim Extra Protection CD-R 700 Mo (52x) 50 Spindel",
+    "Prix €, TTC": "Disque",
+    "Panier": 23.95
+  },
+  {
+    "REF.": "DIS15691",
+    "Nom article": "Verbatim DVD-R 16x Speed 4.7 Go Spindel de 10 (advanced AZO+)",
+    "Prix €, TTC": "Disque",
+    "Panier": 19.9
+  },
+  {
+    "REF.": "DIS48617",
+    "Nom article": "Memorex DVD+R 16x Speed 4.7 Go Spindel de 10",
+    "Prix €, TTC": "Disque",
+    "Panier": 20.99
+  },
+  {
+    "REF.": "DIS61600",
+    "Nom article": "TDK DVD-R 16x Speed 4.7 Go Spindel de 10 (en All. De 25)",
+    "Prix €, TTC": "Disque",
+    "Panier": 19.99
+  },
+  {
+    "REF.": "CON45425",
+    "Nom article": "Microsoft X-Box 360 Premium Pack (dd)",
+    "Prix €, TTC": "Console",
+    "Panier": 396.92
+  },
+  {
+    "REF.": "CON20276",
+    "Nom article": "Sony Playstation 2 (PS two)",
+    "Prix €, TTC": "Console",
+    "Panier": 129
+  },
+  {
+    "REF.": "CON88959",
+    "Nom article": "Nintendo Wii ( + Wii sport)",
+    "Prix €, TTC": "Console",
+    "Panier": 249
+  },
+  {
+    "REF.": "CON82658",
+    "Nom article": "Sony PSP Base Pack",
+    "Prix €, TTC": "Console",
+    "Panier": 199
+  },
+  {
+    "REF.": "CON82668",
+    "Nom article": "Nintendo DS Lite",
+    "Prix €, TTC": "Console",
+    "Panier": 142
+  }
+]
