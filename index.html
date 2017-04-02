@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		
+		<?xml version="1.0" encoding="UTF-8"?>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Index</title>
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" media="all"> 
+		<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all">
+		<link rel="stylesheet" href="css/index.css" type="text/css" media="all">		
+		
+		 <!-- Javascript -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="js/jquery.min.js" type="text/javascript"></script>
+		<script src="js/index.js" type="text/javascript"></script>
+				
+	</head>
+	<body>
+		
+		<center>
+			<!-- ECRAN-1 -->
+			<div class="ecran1 text-center">				
+				<!-- Affiche de la zone de recherche -->
+				<div class="formRecherche">
+					<div class="text-left">
+						<h4>Rechercher un article</h4>
+						(nom, référence, ou catégorie)
+						<br/>
+					</div>
+					<div class="input-group">
+						<input type="search" class="form-control" id="txtRecherche"/>
+						<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+					</div>
+					<div class="text-right"><input type="button" value="Recherche" id="btnRecherche" ></div>			
+				</div>				
+				<!-- Affiche de la liste de resultat -->
+				<div class="resultatRecherche"></div>  				
+				<!-- Affiche du panier -->			
+				<div class="resultatPanier"></div>			
+			</div>
+			
+			<!-- ECRAN-2 -->
+			<div class="ecran2">
+				<div class="row" style="padding-top:20px; padding-bottom:20px">
+					<div class="col-sm-4 text-left"><b>Civilité <font style="color:red">*</font></b></div>
+					<div class="col-sm-4"><input type="radio"  name="civilite" id="civilite" value="f"> <b>Madame </b></div>
+					<div class="col-sm-4"> <input type="radio"  name="civilite" id="civilite" value="h"> <b>Monsieur </b></div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 text-left"><b>Nom <font style="color:red">*</font></b>
+						<input type="text"  name="nom" id="nom" class="form-control" placeholder="Enter votre nom">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 text-left"><b>Prenom <font style="color:red">*</font></b>
+						<input type="text"  name="prenom" id="prenom" class="form-control" placeholder="Enter votre prenom">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 text-left"><b>Adresse <font style="color:red">*</font></b>
+						<input type="text"  name="adresse" id="adresse" class="form-control" placeholder="Enter votre adresse">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-5 text-left"><b>Code postal <font style="color:red">*</font></b>
+						<input type="text"  name="postalCode" id="postalCode" class="form-control" placeholder="Enter votre code postal">
+					</div>
+					<div class="col-sm-7 text-left"><b>Ville <font style="color:red">*</font></b>
+						<input type="text"  name="ville" id="ville" class="form-control" placeholder="Enter votre ville">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 text-left"><b>Mail <font style="color:red">*</font></b>
+						<input type="text"  name="email" id="email" class="form-control" placeholder="Enter votre email">
+					</div>
+				</div>
+				<div class="row" style="padding-top:20px; padding-bottom:20px">
+					<div class="col-sm-6 text-left"><input name="btnRetour" id="btnRetour" value="Retour" class="btn form-control btn-primary" onclick="retourEcran1()"></div>
+					<div class="col-sm-6 text-left"><input type="button"  name="btnValider" id="btnValider" value="Valider" class="form-control" onclick="validerEcran2()"></div>
+				</div>				
+			</div>
+			
+			<!-- ECRAN-3 -->
+			<div class="ecran3" style="padding-top:20px; padding-bottom:20px">
+				<h5 class="text-left"><b>Votre commande a été bien prise en compte</b></h5>
+				<br/>
+				<h5 class="text-left"><b>le Colis sera livré à l'adresse suivante:</b></h5>
+				<div class="adresseLivraison text-left"></div>
+				<br/>
+				<h5 class="text-left"><b>Détail de votre commande:</b></h5>
+				<div class="detailCommande text-left"></div>
+				<br/>
+				<h5><b><div class="totalCommande text-left"></div></b></h5>
+				<br/>
+				<h4 class="text-left"><b>Merci et à trés bientot !</b></h4>
+			</div>
+			
+		</center>
+	</body>
+
+</html>
